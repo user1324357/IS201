@@ -1,0 +1,48 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+}
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.hobbies{
+    
+    list-style-position: inside;
+    float: left;
+}
+body{
+    background-color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px; 
+}
+.emphasized{
+    color: darkorchid;
+}
+.common{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    text-decoration: none;
+}
+nav{
+    overflow:hidden;
+    text-decoration: none;
+}
